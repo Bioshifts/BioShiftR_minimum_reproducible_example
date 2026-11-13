@@ -3,3 +3,5 @@
 .RData
 .Ruserdata
 BioShiftR_polygons/*
+data-raw/elevation/*
+internal/*
